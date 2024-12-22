@@ -2,6 +2,3 @@
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=theburiburi&show_icons=true&theme=dark#gh-dark-mode-only)]
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kuda1390)](https://solved.ac/kuda1390/)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theburiburi&layout=compact)](https://github.com/theburiburi/github-readme-stats)
-
