@@ -5,10 +5,10 @@
 #
 
 <a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/theburiburi?pet-id=656384830360645623"
-    width="600"
-    height="200"
-  />
+<img
+  src="https://render.gitanimals.org/farms/theburiburi"
+  width="600"
+  height="300"
+/>
 </a>
   
