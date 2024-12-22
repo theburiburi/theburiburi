@@ -1,5 +1,4 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=theburiburi&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theburiburi)](https://github.com/theburiburi/github-readme-stats)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=theburiburi&show_icons=true&theme=dark#gh-dark-mode-only)]
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kuda1390)](https://solved.ac/kuda1390/)
 <!--
 **theburiburi/theburiburi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
