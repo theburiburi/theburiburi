@@ -3,6 +3,12 @@
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=theburiburi&show_icons=true&theme=dark#gh-dark-mode-only)]
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kuda1390)](https://solved.ac/kuda1390/)
 #
+
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{theburiburi}"/>
+  <img
+    src="https://render.gitanimals.org/lines/theburiburi?pet-id=656384830360645623"
+    width="600"
+    height="200"
+  />
 </a>
+  
