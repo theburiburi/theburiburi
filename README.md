@@ -16,5 +16,5 @@
 </table>
 <br>
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/theburiburi?limit=100" width="700" height="300" />
+  <img src="https://render.gitanimals.org/farms/theburiburi?limit=100" width="600" height="300" />
 </a>
