@@ -12,15 +12,9 @@
         <img src="https://github.com/user-attachments/assets/99cf4f02-1f4c-4913-afe2-da3d98394f36" width="350" height="180" style="object-fit: contain;">
       </a>
     </td>
-    <!-- 3. Gitanimals (원본 비율 유지, 높이만 맞춰서 정렬) -->
-    <td align="center" valign="middle">
-      <a href="https://github.com/devxb/gitanimals">
-        <img src="https://render.gitanimals.org/farms/theburiburi?limit=100" height="180">
-      </a>
-    </td>
   </tr>
 </table>
 <br>
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/theburiburi?limit=100" width="600" height="300" />
+  <img src="https://render.gitanimals.org/farms/theburiburi?limit=100" width="700" height="300" />
 </a>
